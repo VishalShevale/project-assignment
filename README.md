@@ -1,8 +1,15 @@
 # React + Vite
+**Title : MERN Stack Coding Challenge**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To run the code you need to do following steps:
+1. clone "project-assignment-frontend" repository and "project-assignment-backend" repository
+2. cd .\.project-assignment-frontend\
+3. npm i
+4. npm install chart.js
+5. npm run dev
+you successfully see results.
 
-Currently, two official plugins are available:
+**NOTE**
+make sure your server folder and the frontend folder are in the 1 folder.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Thank You !**
